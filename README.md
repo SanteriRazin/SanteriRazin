@@ -9,10 +9,10 @@ Main interests include 2D game development, gameplay systems, and simple but pol
 ---
 
 ## Current Skills
-• Python programming  
+• Python programming
 • GDScript programming
 • Game logic and mechanics  
-• UI systems 
+• UI systems
 • Basic pixel art  
 • Version control with Git  
 
@@ -46,7 +46,9 @@ Instructions will be added when the project is ready for public builds.
 
 ## Contact
 GitHub: https://github.com/SanteriRazin
+
 Itch.io: https://santeri-razin.itch.io
+
 Snapchat: https://snapchat.com/t/sUbJP7tC
 
 ---
