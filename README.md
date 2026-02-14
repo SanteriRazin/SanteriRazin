@@ -11,10 +11,10 @@ Main interests include 2D game development, gameplay systems, and simple but pol
 ## Current Skills
 • Python programming
 • GDScript programming
-• Game logic and mechanics  
+• Game logic and mechanics
 • UI systems
-• Basic pixel art  
-• Version control with Git  
+• Basic pixel art
+• Version control with Git
 
 ---
 
