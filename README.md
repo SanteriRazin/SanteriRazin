@@ -45,7 +45,7 @@ Instructions will be added when the project is ready for public builds.
 ---
 
 ## Contact
-GitHub: https://github.com/SanteriRazin
+GitHub: https://github.com/santerirazin
 
 Itch.io: https://santeri-razin.itch.io
 
